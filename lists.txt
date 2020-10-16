@@ -6,3 +6,5 @@ https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1
 https://github.com/uBlockOrigin/uAssets/raw/master/filters/unbreak.txt
 https://raw.githubusercontent.com/brave/adblock-lists/master/brave-unbreak.txt
 https://raw.githubusercontent.com/brave/adblock-lists/master/coin-miners.txt
+https://raw.github.com/reek/anti-adblock-killer/master/anti-adblock-killer-filters.txt
+https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
