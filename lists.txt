@@ -1,8 +1,11 @@
-https://github.com/uBlockOrigin/uAssets/raw/master/filters/filters.txt
-https://github.com/uBlockOrigin/uAssets/raw/master/filters/badware.txt
-https://github.com/uBlockOrigin/uAssets/raw/master/filters/privacy.txt
-https://github.com/uBlockOrigin/uAssets/raw/master/filters/resource-abuse.txt
-https://github.com/uBlockOrigin/uAssets/raw/master/filters/unbreak.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/unbreak.txt
 https://easylist.to/easylist/easylist.txt
 https://easylist.to/easylist/easyprivacy.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=adblockplus&showintro=1&mimetype=plaintext
